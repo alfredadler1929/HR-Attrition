@@ -1,2 +1,2 @@
-# HR-Attrition
-HR attrition
+# Power Bi
+Power Bi
